@@ -8,4 +8,4 @@
 # Member Information:
 
 - Nguyễn Phước Gia Huy - 20127038 - github: [npghuy](https://github.com/npghuy)
-- Nguyễn Thiện Hoàng Trí - 20127088 -github: [hoangsidrpr](https://github.com/Saichi84)
+- Nguyễn Thiện Hoàng Trí - 20127088 -github: [Saichi84](https://github.com/Saichi84)
